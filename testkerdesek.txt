@@ -47,3 +47,13 @@ C. WIP limitek
 D. Ütemterv
 
 Válasz:A
+
+Kérdés6:
+Mennyi a tej?
+
+A. mizo
+B. Munkafázisok
+C. WIP limitek
+D. Ütemterv
+
+Válasz:A
