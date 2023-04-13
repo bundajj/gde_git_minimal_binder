@@ -37,3 +37,13 @@ C. WIP limitek
 D. Ütemterv
 
 Válasz:C
+
+Kérdés5:
+Mennyi a hal?
+
+A. Scooter
+B. Munkafázisok
+C. WIP limitek
+D. Ütemterv
+
+Válasz:A
