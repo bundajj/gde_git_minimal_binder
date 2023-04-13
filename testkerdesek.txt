@@ -6,17 +6,17 @@ B. A munkafolyamatok átláthatóságának és hatékonyságának javítása
 C. A projektek erőforrásainak maximalizálása
 D. Csak a projektek kezdeti szakaszában való alkalmazás
 
-Válasz:
+Válasz:A
 
-Kérdés 2:
+Kérdés 2:B
 Melyik állítás igaz a Kanban módszertannal kapcsolatban?
-
+B
 A. A Kanban csapatoknak követniük kell egy előre meghatározott, állandó folyamatot
 B. A Kanban módszertan lehetővé teszi a csapatok számára, hogy folyamatosan és rugalmasan javítsák a munkafolyamatokat
 C. A Kanban módszertan csak IT projektekben alkalmazható
 D. A Kanban módszertan szerint minden csapatnak ugyanazokat a munkafolyamatokat kell használnia
 
-Válasz:
+Válasz:C
 
 Kérdés 3:
 Mi a "Work In Progress" (WIP) limit a Kanban módszertanban?
@@ -26,7 +26,7 @@ B. A csapat által egy időben végezhető feladatok minimális száma
 C. Az egyes munkafázisokhoz rendelt időkorlát
 D. A projektenként elkülönített erőforrások maximális száma
 
-Válasz:
+Válasz:D
 
 Kérdés 4:
 Melyik elem NEM része a Kanban táblának?
@@ -36,4 +36,4 @@ B. Munkafázisok
 C. WIP limitek
 D. Ütemterv
 
-Válasz:
+Válasz:C
